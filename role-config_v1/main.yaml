@@ -1,0 +1,6 @@
+ntp_client_file: ntp.client
+ntp_config_file: ntp.conf
+ntp_packages: ntp
+ntp_server:
+  server1: server 88.88.88.88
+ntp_service: ntpd

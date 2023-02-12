@@ -1,0 +1,8 @@
+ntp_client_file: ntp.client
+ntp_config_file: ntp.conf
+ntp_packages: ntp
+ntp_server:
+  server1: server 1.1.2.3
+  server2: server 2.2.3.4
+  server3: server 1.4.6.7
+ntp_service: ntpd
